@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kza:home|Door43 (kza)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kza|d43-kza repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kza/archive/master.zip|d43-kza.zip]]
+
+**Recent Changes**
+{{changes>ns = kza}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kza|Ethnologue data]]
+
